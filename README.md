@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 :star_struck:
+### Talk is cheap. Show me the code
+###:computer: Aspiring Software Engineer
+- 📫 How to reach me: phathisanisendy@gmail.com
+### Coding my dreams into reality !!!
+###<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/> 
 
 <!--
 **sendyTheDev/sendyTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
